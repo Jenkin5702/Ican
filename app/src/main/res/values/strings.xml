@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">智能粘度检测</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="compute">开始识别</string>
+    <array name="records">
+        <item>记录数据1</item>
+        <item>记录数据2</item>
+        <item>记录数据3</item>
+        <item>记录数据4</item>
+        <item>记录数据5</item>
+        <item>记录数据6</item>
+        <item>记录数据7</item>
+        <item>记录数据8</item>
+        <item>新建..</item>
+    </array>
+</resources>
